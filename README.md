@@ -1,17 +1,15 @@
 <p align='center'>
-<a href="http://www.autumnragland.com"><img height="30" src="./favicon-green.png"></a>
 <a href="https://dev.to/autumn_ragland"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>
-<a href="https://instagram.com/autumn_tech"><img height="30" src="./insta-logo.png"></a>
 <a href="https://www.linkedin.com/in/autumn-ragland/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 ### Autumn Ragland 💖
-Hey there! I'm currently a frontend engineer for <a style="color: #717744;" href="https://zip.co/us">Zip (previously Quadpay)</a>, a buy now pay later service. I got my technical education from <a style="color: #717744;" href="https://www.code-crew.org/codeschool">CodeCrew Code School</a>, a Memphis based 6 month coding boot-camp aimed at training adults to be entry level full stack developers.I'm an active member of some of the tech groups in Memphis. I currently serve as a member of the <a style="color: #717744;" href="https://codeconnector.io/">Code Connector</a> leadership board. I regularly attend events hosted by <a style="color: #717744;" href="https://memphiswebworkers.com/ ">Memphis Web Workers</a> and <a style="color: #717744;" href="https://www.linkedin.com/company/gdg-memphis/">Google Developers Group Memphis</a>. I've also had the privilege to participate in <a style="color: #717744;" href="https://www.givecampmemphis.org/">Give Camp Memphis</a> and the <a style="color: #717744;" href="https://memphisdatahack.com/">Memphis Civic Data Hackathon</a>.
+Hey there! I was a senior software engineer for <a style="color: #717744;" href="https://zip.co/us">Zip (previously Quadpay)</a>, a buy now pay later service for the last four years and I am now open to work. I got my technical education from <a style="color: #717744;" href="https://www.code-crew.org/codeschool">CodeCrew Code School</a>, a Memphis based 6 month coding boot-camp aimed at training adults to be entry level full stack developers.
 
 ### What I'm Up To!
-🌟 Currently learning more about accessible web design
+🌟 Currently learning more about how AI will factor into the day to day life od devlopers
 
-💫 Feeling strongest in Vue
+💫 Feeling strongest in Vue/React
 
 💖 Interested to attend more online conferences
 
